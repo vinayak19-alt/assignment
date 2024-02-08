@@ -1,16 +1,4 @@
 # assignment_1
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I've built the following template
+![Assignment_github](https://github.com/vinayak19-alt/assignment/assets/80938731/44f62c3c-ef46-4407-a62c-b803f7f59eee)
